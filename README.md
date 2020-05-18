@@ -3,3 +3,4 @@
 ***Phase 2:***
 
 **The progress and demo for phase 2 is documented in KBVQA_Demo.ipynb**
+**The Report.pdf has detailed information**
