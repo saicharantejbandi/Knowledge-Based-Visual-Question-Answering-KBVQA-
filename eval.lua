@@ -1,5 +1,5 @@
 
-require 'n'
+require 'nn'
 require 'torch'
 require 'optim'
 require 'misc.DataLoader'
@@ -36,7 +36,9 @@ cmd:option('-seed', 123, 'random number generator seed to use')
 cmd:text()
 
 local batch_size = 256
-
+---------------
+---testr i
+--------
 -------------------------------------------------------------------------------
 -- Basic Torch initializations
 -------------------------------------------------------------------------------
