@@ -1,5 +1,5 @@
 
-require 'nn'
+require 'n'
 require 'torch'
 require 'optim'
 require 'misc.DataLoader'
